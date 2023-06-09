@@ -1,4 +1,4 @@
-###                                                      Wassup?
+### A machine learning model that predicts the time taken by delivery partners for delivering their food to the customer. Based on kaggle dataset.
 
 <!--
 **catchnehal/catchnehal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
